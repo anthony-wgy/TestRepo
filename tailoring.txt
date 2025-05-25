@@ -1,0 +1,84 @@
+PANTS
+	2 - Simple Linen Pants - https://www.wowhead.com/classic/spell=12044/simple-linen-pants
+	5 - Brown Linen Pants - https://www.wowhead.com/classic/spell=3914/brown-linen-pants
+	9 - Handstitched Linen Britches - https://www.wowhead.com/classic/spell=3842/handstitched-linen-britches
+	10 - Simple Kilt - https://www.wowhead.com/classic/spell=12046/simple-kilt
+	17 - Heavy Woolen Pants - https://www.wowhead.com/classic/spell=3850/heavy-woolen-pants
+	36 - Black Mageweave Leggings - https://www.wowhead.com/classic/spell=12049/black-mageweave-leggings
+	38 - Red Mageweave Pants - https://www.wowhead.com/classic/spell=12060/red-mageweave-pants
+	52 - Runecloth Pants - https://www.wowhead.com/classic/spell=18438/runecloth-pants 
+
+CLOAK
+
+	1 - Linen Cloak - https://www.wowhead.com/classic/spell=2387/linen-cloak
+	7 - Reinforced Linen Cape - https://www.wowhead.com/classic/spell=2397/reinforced-linen-cape
+	11 - Woolen Cape - https://www.wowhead.com/classic/spell=2402/woolen-cape
+	14 - Pearl-clasped Cloak - https://www.wowhead.com/classic/spell=6521/pearl-clasped-cloak
+	16 - Heavy Woolen Cloak - https://www.wowhead.com/classic/spell=3844/heavy-woolen-cloak
+	32 - Long Silken Cloak - https://www.wowhead.com/classic/spell=3861/long-silken-cloak
+
+CHEST
+	
+	3 - Brown Linen Vest - https://www.wowhead.com/classic/spell=2385/brown-linen-vest
+	5 - White Linen Robe - https://www.wowhead.com/classic/spell=7624/white-linen-robe
+	9 - Barbaric Linen Vest - https://www.wowhead.com/classic/spell=2395/barbaric-linen-vest
+	22 - Lesser Wizard's Robe - https://www.wowhead.com/classic/spell=6690/lesser-wizards-robe
+	33 - Robe of Power - https://www.wowhead.com/classic/spell=8770/robe-of-power
+	40 - Dreamweave Vest - https://www.wowhead.com/classic/spell=12070/dreamweave-vest
+
+	
+WAIST
+	
+	4 - Linen Belt - https://www.wowhead.com/classic/spell=8776/linen-belt
+	46 - Runecloth Belt - https://www.wowhead.com/classic/spell=18402/runecloth-belt
+
+FEET
+
+	4 - Simple Linen Boots - https://www.wowhead.com/classic/spell=12045/simple-linen-boots
+	8 - Linen Boots - https://www.wowhead.com/classic/spell=2386/linen-boots
+	11 - Soft-soled Linen Boots - https://www.wowhead.com/classic/spell=3845/soft-soled-linen-boots
+	14 - Woolen Boots - https://www.wowhead.com/classic/spell=2401/woolen-boots
+	20 - Spidersilk Boots - https://www.wowhead.com/classic/spell=3855/spidersilk-boots
+	41 - Black Mageweave Boots - https://www.wowhead.com/classic/spell=12073/black-mageweave-boots
+	51 - Runecloth Boots - https://www.wowhead.com/classic/spell=18423/runecloth-boots
+
+HANDS
+
+	5 - Heavy Linen Gloves - https://www.wowhead.com/classic/spell=3840/heavy-linen-gloves
+	12 - Heavy Woolen Gloves - https://www.wowhead.com/classic/spell=3843/heavy-woolen-gloves
+	38 - Black Mageweave Gloves - https://www.wowhead.com/classic/spell=12053/black-mageweave-gloves
+	40 - Red Mageweave Gloves - https://www.wowhead.com/classic/spell=12066/red-mageweave-gloves
+	40 - Dreamweave Gloves - https://www.wowhead.com/classic/spell=12067/dreamweave-gloves
+	50 - Runecloth Gloves - https://www.wowhead.com/classic/spell=18417/runecloth-gloves
+
+WRIST
+
+	7 - Green Linen Bracers - https://www.wowhead.com/classic/spell=3841/green-linen-bracers
+
+SHOULDER
+
+	17 - Double-stitched Woolen Shoulders - https://www.wowhead.com/classic/spell=3848/double-stitched-woolen-shoulders
+	19 - Reinforced Woolen Shoulders - https://www.wowhead.com/classic/spell=3849/reinforced-woolen-shoulders
+	31 - Green Silken Shoulders - https://www.wowhead.com/classic/spell=8774/green-silken-shoulders
+	41 - Black Mageweave Shoulders - https://www.wowhead.com/classic/spell=12074/black-mageweave-shoulders
+	42 - Red Mageweave Shoulders - https://www.wowhead.com/classic/spell=12078/red-mageweave-shoulders
+
+HEAD
+
+	24 - Azure Silk Hood - https://www.wowhead.com/classic/spell=8760/azure-silk-hood
+	27 - Silk Headband - https://www.wowhead.com/classic/spell=8762/silk-headband
+	28 - Enchanter's Cowl - https://www.wowhead.com/classic/spell=3857/enchanters-cowl
+	41 - Black Mageweave Headband - https://www.wowhead.com/classic/spell=12072/black-mageweave-headband
+	43 - Red Mageweave Headband - https://www.wowhead.com/classic/spell=12084/red-mageweave-headband
+	*43 - Admiral's Hat - https://www.wowhead.com/classic/spell=12081/admirals-hat
+	45 - Dreamweave Circlet - https://www.wowhead.com/classic/spell=12092/dreamweave-circlet
+	54 - Runecloth Headband - https://www.wowhead.com/classic/spell=18444/runecloth-headband
+ 
+
+
+
+
+
+
+
+
